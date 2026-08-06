@@ -23,15 +23,6 @@ This repository contains multiple SQL projects completed using MySQL. These proj
 - JOINS
 - Aggregate Functions
 
-### 🛒 2. Retail Sales Analysis
-(Coming Soon)
-
-### 👨‍💼 3. Employee Database Analysis
-(Coming Soon)
-
-### 🍽️ 4. Restaurant SQL Analysis
-(Coming Soon)
-
 ---
 
 ## 🎯 Skills Demonstrated
